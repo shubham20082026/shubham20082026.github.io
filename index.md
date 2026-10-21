@@ -3,7 +3,7 @@ layout: default
 title: Shubham's Homepage
 ---
 
-# Hi, I’m Shubham 👋
+# Hi, I’m Shubham 
 
 I build software, explore new ideas, and write about things I learn along the way.
 
@@ -17,4 +17,3 @@ I build software, explore new ideas, and write about things I learn along the wa
 ## Find me
 
 - [GitHub](https://github.com/shubham20082026)
-<a class="btn" href="https://github.com/your-username">View my work</a>
